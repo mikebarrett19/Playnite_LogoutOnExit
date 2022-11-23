@@ -4,3 +4,4 @@ Author: Michael Barrett
 Version: 1.0
 Module: PowerShellScript.psm1
 Type: Script
+Icon: https://raw.githubusercontent.com/mikebarrett19/Playnite_LogoutOnExit/main/restart_icon.png
