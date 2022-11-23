@@ -1,0 +1,6 @@
+Id: LogoutOnExit
+Name: Logout On Exit
+Author: Michael Barrett
+Version: 1.0
+Module: PowerShellScript.psm1
+Type: Script
